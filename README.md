@@ -22,8 +22,8 @@ I’m a Data Science master's student passionate about extracting insights from 
 - Open-source AI contributions  
 
 ## 📫 Reach Me At  
-- LinkedIn: [Your LinkedIn Profile](#)  
-- Email: your-email@example.com  
+-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/tejas-salunkhe-5681b1252/)
+- Email: salunkhetejas501@gmail.com  
 - GitHub: [@TejasML](https://github.com/TejasML)  
 
 ## 😄 Pronouns  

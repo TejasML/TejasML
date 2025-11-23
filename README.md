@@ -3,28 +3,28 @@ I’m a Data Science master's student passionate about extracting insights from 
 
 ## 👀 Interests  
 - Machine Learning & AI 🤖  
+- Natural Language Processing (NLP) 🗣️  
 - Data Preprocessing & Feature Engineering 🛠️  
 - Data Visualization & Storytelling 📊  
+- Cloud Computing ☁️  
 - Predictive Modeling & Research 🔍  
 
 ## 🌱 Currently Learning  
-- Advanced NumPy & Pandas for data manipulation  
-- Machine Learning model optimization  
-- Time Series & Sales Data Analysis  
-
-## 💻 Projects  
-- **HMPV Virus Prediction:** Cleaning and preprocessing datasets for a machine learning model using Random Forest.  
-- **Sales Data Analysis:** Analyzing commercial store sales data for insights and forecasting.  
+- Big Data Tools & Technologies (Spark, Hadoop, etc.)  
+- Cloud Services (Azure, AWS, GCP)  
+- Natural Language Processing (NLP)  
+- ML Model Optimization  
 
 ## 💞️ Looking to Collaborate On  
 - Data Science & ML projects  
-- Research on real-world datasets  
+- NLP & AI applications  
+- Big Data analytics  
 - Open-source AI contributions  
 
 ## 📫 Reach Me At  
--📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/tejas-salunkhe-5681b1252/)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/tejas-salunkhe-5681b1252/)  
 - Email: salunkhetejas501@gmail.com  
-- GitHub: [@TejasML](https://github.com/TejasML)  
+- GitHub: [@TejasML](https://github.com/TejasML)
 
 ## 😄 Pronouns  
 He/Him  

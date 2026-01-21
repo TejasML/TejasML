@@ -15,7 +15,7 @@ I’m a Data Science master's student passionate about extracting insights from 
 - Natural Language Processing (NLP)  
 - ML Model Optimization  
 
-## 💞️ Looking to Collaborate On  
+##  Looking to Collaborate On  
 - Data Science & ML projects  
 - NLP & AI applications  
 - Big Data analytics  

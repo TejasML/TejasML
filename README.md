@@ -1,44 +1,56 @@
-# [Your Name]
+### 👨‍💻 About Me :
 
-**Data Science Student | Aspiring Data & Analytics Engineer**
+I am dedicated to designing, building, and optimizing scalable data architectures. My focus lies at the intersection of big data processing and business intelligence, specifically utilizing the Microsoft Azure ecosystem to build efficient ETL/ELT pipelines and robust data lakehouses.
 
-I am focused on designing, building, and optimizing scalable data architectures. My work lies at the intersection of big data processing and business intelligence, specifically utilizing modern cloud platforms to build efficient ETL/ELT pipelines and robust data warehouses.
+Currently, I am deep-diving into Azure Databricks, cloud orchestration, and implementing Medallion Architecture (Bronze, Silver, Gold layers) to transition complex analytical workloads from traditional databases to modern distributed environments.
 
-### 🛠 Technical Expertise
+If you are seeking a dedicated aspiring Data & Analytics engineer passionate about making data accessible and useful, let's connect and explore how we can build robust data solutions together!
 
-**Big Data & Processing**
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-F4C044.svg?style=for-the-badge&logo=Python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Delta%20Lake-00AAD4.svg?style=for-the-badge&logo=Databricks&logoColor=white" />
+<br>
+
+### 🎓 Certifications :
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Certified_Azure_Data_Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Engineer" />
+  <img src="https://img.shields.io/badge/Databricks_Certified_Data_Engineer-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
 </p>
 
-**Cloud Data Platforms (Azure)**
-<p>
-  <img src="https://img.shields.io/badge/Azure%20Databricks-FF3621.svg?style=for-the-badge&logo=Databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0089D6.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20Synapse-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-005288.svg?style=for-the-badge&logo=Microsoft&logoColor=white" />
+<br>
+
+### 🛠️ Languages and Tools :
+
+<br>
+
+**💻 Programming :**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
-**Analytics Engineering & BI**
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power%20BI&logoColor=black" />
-  <img src="https://img.shields.io/badge/Data%20Modeling-4D4D4D.svg?style=for-the-badge&logo=Database&logoColor=white" />
+**🗄️ Databases & Storage :**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Delta_Lake-00AAD4?style=for-the-badge&logo=databricks&logoColor=white" alt="Delta Lake" />
 </p>
 
-**Languages & Infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git%20&%20GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
+**🤖 Data & Analytics :**
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/PySpark-F4C044?style=for-the-badge&logo=python&logoColor=black" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
 
-### 🚀 Current Focus
-- Deepening expertise in **Azure Databricks** and cloud-based data orchestration.
-- Implementing Medallion Architecture (Bronze, Silver, Gold layers) for enterprise lakehouses.
-- Transitioning analytical workloads from traditional databases to modern distributed environments.
+**☁️ Cloud Platforms :**
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="ADF" />
+  <img src="https://img.shields.io/badge/Azure_Synapse-005288?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Synapse" />
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Fabric" />
+</p>
 
-### 📬 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/yourprofile)
-[<img src="https://img.shields.io/badge/Portfolio-255E63.svg?style=for-the-badge&logo=Web&logoColor=white" />](https://yourwebsite.com)
+**🔨 Tools :**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>

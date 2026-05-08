@@ -7,15 +7,15 @@
 
 ## About Me
 
-I am a fresh Data Science graduate with a strong passion for Data Engineering and Analytics Engineer. I enjoy working at the intersection of raw data and business intelligence — transforming messy, complex datasets into clean, reliable pipelines that power real decisions.
+I am a Data Science graduate with strong interests in Data Engineering, Analytics Engineering, and cloud-based analytics. I have built an end-to-end data pipeline on Microsoft Azure, ingesting data from sources such as Kaggle datasets, public APIs, and relational databases using Azure Data Factory. I transformed and processed the data using Azure Databricks and PySpark following the Medallion Architecture (Bronze, Silver, and Gold layers), and served analytics-ready data through Azure Synapse Analytics and Microsoft Fabric.
 
-My primary focus is the **Microsoft Azure ecosystem**, where I work with tools like **Azure Data Factory**, **Azure Databricks**, **Synapse Analytics**, and **Microsoft Fabric** to design and build end-to-end data solutions. I am currently deep-diving into **Medallion Architecture** (Bronze, Silver, Gold layers) and **Apache Spark** to build scalable data lakehouses suited for modern analytical workloads.
+I have hands-on experience designing and implementing modern lakehouse architectures — from raw data ingestion and transformation to building clean, reliable, and business-ready datasets for analytics, reporting, and decision-making.
 
-Beyond data engineering, I actively build and deploy **Machine Learning** and **Deep Learning** projects — including a live pneumonia detection app using CNNs, deployed on Hugging Face Spaces.
+In addition to Data Engineering and Analytics Engineering, I actively develop and deploy Machine Learning and Deep Learning projects, including a live pneumonia detection application built using CNNs and deployed on Hugging Face Spaces.
 
-I hold the **Microsoft Certified: Azure Data Fundamentals (DP-900)** certification and am currently preparing for the **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)**.
+I hold the Microsoft Certified: Azure Data Fundamentals (DP-900) certification and am currently preparing for the Microsoft Certified: Fabric Analytics Engineer Associate (DP-600).
 
-I am actively looking for opportunities where I can contribute, learn, and grow as a Data Engineer. If you are working on interesting data problems, feel free to connect!
+I am actively seeking opportunities to contribute, learn, and solve real-world data and analytics challenges. If you are working on impactful data, analytics, or AI projects, feel free to connect.
 
 <br>
 

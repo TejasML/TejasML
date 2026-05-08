@@ -7,7 +7,7 @@
 
 ## About Me
 
-I am a fresh Data Science graduate with a strong passion for Data Engineering and cloud-based analytics. I enjoy working at the intersection of raw data and business intelligence — transforming messy, complex datasets into clean, reliable pipelines that power real decisions.
+I am a fresh Data Science graduate with a strong passion for Data Engineering and Analytics Engineer. I enjoy working at the intersection of raw data and business intelligence — transforming messy, complex datasets into clean, reliable pipelines that power real decisions.
 
 My primary focus is the **Microsoft Azure ecosystem**, where I work with tools like **Azure Data Factory**, **Azure Databricks**, **Synapse Analytics**, and **Microsoft Fabric** to design and build end-to-end data solutions. I am currently deep-diving into **Medallion Architecture** (Bronze, Silver, Gold layers) and **Apache Spark** to build scalable data lakehouses suited for modern analytical workloads.
 

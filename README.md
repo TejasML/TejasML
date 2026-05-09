@@ -1,6 +1,6 @@
 # Hi, I'm Tejas 👋
 
-![Banner](Banner__2_.png)
+![Banner](banner_1584x369.png)
 
 <br>
 

@@ -73,6 +73,9 @@ I am actively seeking opportunities in Data Engineering or Analytics Engineering
   <a href="https://www.microsoft.com/en-us/microsoft-fabric" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Fabric" />
   </a>
+  <a href="https://azure.microsoft.com/en-us/products/storage/data-lake-storage" target="_blank">
+    <img src="https://img.shields.io/badge/Azure_Data_Lake_Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="ADLS" />
+  </a>
 </p>
 
 **Data & Analytics**
@@ -97,6 +100,15 @@ I am actively seeking opportunities in Data Engineering or Analytics Engineering
   </a>
   <a href="https://www.tensorflow.org" target="_blank">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  </a>
+  <a href="https://scikit-learn.org" target="_blank">
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  </a>
+  <a href="https://matplotlib.org" target="_blank">
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  </a>
+  <a href="https://seaborn.pydata.org" target="_blank">
+    <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
   </a>
 </p>
 
@@ -123,6 +135,12 @@ I am actively seeking opportunities in Data Engineering or Analytics Engineering
   </a>
   <a href="https://huggingface.co" target="_blank">
     <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dax/" target="_blank">
+    <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="DAX" />
   </a>
 </p>
 

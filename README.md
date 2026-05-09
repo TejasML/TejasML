@@ -1,7 +1,7 @@
 # Hi, I'm Tejas 👋
 
 
-![Banner](Banner(2).png)
+![Banner](banner_1.0.png)
 
 <br>
 

@@ -1,17 +1,17 @@
 # Hi, I'm Tejas 👋
 
-
-![Banner](banner_1584x396.png)
+![Banner](Banner__2_.png)
 
 <br>
 
 ## About Me
 
-I am a Data Science graduate with strong interests in Data Engineering and Analytics Engineering. I have built end-to-end data pipelines — ingesting data from Kaggle datasets, public APIs, and relational databases, transforming it using Apache Spark and PySpark, and implementing Medallion Architecture (Bronze, Silver, Gold layers) to deliver clean, analytics-ready outputs across modern cloud platforms.
+I am a Data Science graduate with strong interests in **Data Engineering** and **Analytics Engineering**. I have built end-to-end data pipelines — ingesting data from Kaggle datasets, public APIs, and relational databases, transforming it using **Apache Spark** and **PySpark**, and implementing **Medallion Architecture** (Bronze, Silver, Gold layers) to deliver clean, analytics-ready outputs across modern cloud platforms.
 
-I also actively develop and deploy Machine Learning and Deep Learning projects — including a live pneumonia detection application built using CNNs and deployed on Hugging Face Spaces.
+I also actively develop and deploy **Machine Learning** and **Deep Learning** projects — including a live pneumonia detection application built using CNNs and deployed on Hugging Face Spaces.
 
-I hold the Microsoft Certified: Azure Data Fundamentals (DP-900) certification and am currently preparing for DP-600 — Fabric Analytics Engineer Associate.
+I hold the **Microsoft Certified: Azure Data Fundamentals (DP-900)** certification and am currently preparing for **DP-600 — Fabric Analytics Engineer Associate**.
+
 I am actively seeking opportunities in Data Engineering or Analytics Engineering. If you are working on impactful data or AI projects, feel free to connect.
 
 <br>
@@ -54,9 +54,6 @@ I am actively seeking opportunities in Data Engineering or Analytics Engineering
   <a href="https://www.python.org" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
-  <a href="https://www.mysql.com" target="_blank">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  </a>
 </p>
 
 **Cloud Platforms**
@@ -92,6 +89,15 @@ I am actively seeking opportunities in Data Engineering or Analytics Engineering
   <a href="https://powerbi.microsoft.com" target="_blank">
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   </a>
+  <a href="https://pandas.pydata.org" target="_blank">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  </a>
+  <a href="https://numpy.org" target="_blank">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  </a>
 </p>
 
 **Databases**
@@ -108,6 +114,15 @@ I am actively seeking opportunities in Data Engineering or Analytics Engineering
   </a>
   <a href="https://github.com" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://jupyter.org" target="_blank">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  </a>
+  <a href="https://streamlit.io" target="_blank">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  </a>
+  <a href="https://huggingface.co" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   </a>
 </p>
 

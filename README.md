@@ -8,9 +8,12 @@
 ## About Me
 
 I am a Data Science graduate with strong interests in Data Engineering and Analytics Engineering. I have built end-to-end data pipelines — ingesting data from sources such as Kaggle datasets, public APIs, and relational databases, transforming and processing it using distributed computing frameworks like Apache Spark and PySpark, and implementing Medallion Architecture (Bronze, Silver, and Gold layers) to structure data from raw ingestion through to clean, analytics-ready outputs.
+
 I have hands-on experience designing and implementing modern lakehouse architectures across cloud platforms, working with orchestration tools, transformation engines, and analytical serving layers to build reliable and business-ready datasets for reporting and decision-making.
 In addition to Data Engineering and Analytics Engineering, I actively develop and deploy Machine Learning and Deep Learning projects — including a live pneumonia detection application built using CNNs and deployed on Hugging Face Spaces.
+
 I hold the Microsoft Certified: Azure Data Fundamentals (DP-900) certification and am currently preparing for the Microsoft Certified: Fabric Analytics Engineer Associate (DP-600).
+
 I am actively seeking opportunities in Data Engineering or Analytics Engineering where I can design scalable pipelines, work with modern data platforms, and turn raw data into meaningful business outcomes. If you are working on impactful data or AI projects, feel free to connect.
 
 <br>

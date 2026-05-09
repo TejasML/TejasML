@@ -7,15 +7,11 @@
 
 ## About Me
 
-I am a Data Science graduate with strong interests in Data Engineering, Analytics Engineering, and cloud-based analytics. I have built an end-to-end data pipeline on Microsoft Azure, ingesting data from sources such as Kaggle datasets, public APIs, and relational databases using Azure Data Factory. I transformed and processed the data using Azure Databricks and PySpark following the Medallion Architecture (Bronze, Silver, and Gold layers), and served analytics-ready data through Azure Synapse Analytics and Microsoft Fabric.
-
-I have hands-on experience designing and implementing modern lakehouse architectures — from raw data ingestion and transformation to building clean, reliable, and business-ready datasets for analytics, reporting, and decision-making.
-
-In addition to Data Engineering and Analytics Engineering, I actively develop and deploy Machine Learning and Deep Learning projects, including a live pneumonia detection application built using CNNs and deployed on Hugging Face Spaces.
-
+I am a Data Science graduate with strong interests in Data Engineering and Analytics Engineering. I have built end-to-end data pipelines — ingesting data from sources such as Kaggle datasets, public APIs, and relational databases, transforming and processing it using distributed computing frameworks like Apache Spark and PySpark, and implementing Medallion Architecture (Bronze, Silver, and Gold layers) to structure data from raw ingestion through to clean, analytics-ready outputs.
+I have hands-on experience designing and implementing modern lakehouse architectures across cloud platforms, working with orchestration tools, transformation engines, and analytical serving layers to build reliable and business-ready datasets for reporting and decision-making.
+In addition to Data Engineering and Analytics Engineering, I actively develop and deploy Machine Learning and Deep Learning projects — including a live pneumonia detection application built using CNNs and deployed on Hugging Face Spaces.
 I hold the Microsoft Certified: Azure Data Fundamentals (DP-900) certification and am currently preparing for the Microsoft Certified: Fabric Analytics Engineer Associate (DP-600).
-
-I am actively seeking opportunities to contribute, learn, and solve real-world data and analytics challenges. If you are working on impactful data, analytics, or AI projects, feel free to connect.
+I am actively seeking opportunities in Data Engineering or Analytics Engineering where I can design scalable pipelines, work with modern data platforms, and turn raw data into meaningful business outcomes. If you are working on impactful data or AI projects, feel free to connect.
 
 <br>
 

@@ -1,7 +1,7 @@
 # Hi, I'm Tejas 👋
 
-<!-- BANNER IMAGE — Replace the URL below with your custom banner image -->
-![Banner](https://via.placeholder.com/1200x300.png?text=Your+Custom+Banner+Here)
+
+![Banner](banner.png)
 
 <br>
 

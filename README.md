@@ -37,12 +37,6 @@ I am actively seeking opportunities in Data Engineering or Analytics Engineering
 
 ## Certifications
 
-<p align="left">
-  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/" target="_blank">
-    <img src="https://img.shields.io/badge/DP--900%20Azure%20Data%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="DP-900" />
-  </a>
-</p>
-
 > Currently preparing for **DP-600 — Microsoft Certified: Fabric Analytics Engineer Associate**
 
 <br>

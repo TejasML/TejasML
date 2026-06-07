@@ -139,9 +139,7 @@ I am actively seeking opportunities in Data Engineering or Analytics Engineering
 
 ## GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TejasML&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-</p>
+<img src="https://streak-stats.demolab.com/?user=TejasML&theme=tokyonight&hide_border=true" />
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=TejasML&label=Profile%20Views&color=0078D4&style=flat" alt="Profile Views" />
 </p>

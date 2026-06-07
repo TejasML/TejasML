@@ -139,9 +139,9 @@ I am actively seeking opportunities in Data Engineering or Analytics Engineering
 
 ## GitHub Stats
 
-<img src="https://streak-stats.demolab.com/?user=TejasML&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TejasML&theme=tokyo-night&hide_border=true" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=150&section=header&text=Hi%20I'm%20Tejas&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+<!-- <img src="https://streak-stats.demolab.com/?user=TejasML&theme=tokyonight&hide_border=true" /> -->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejasML&theme=tokyo-night&hide_border=true" /> -->
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=150&section=header&text=Hi%20I'm%20Tejas&fontSize=50&fontColor=ffffff&animation=fadeIn" /> -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=TejasML&label=Profile%20Views&color=0078D4&style=flat" alt="Profile Views" />
 </p>

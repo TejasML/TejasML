@@ -61,9 +61,6 @@ I am actively seeking opportunities in Data Engineering or Analytics Engineering
   <a href="https://azure.microsoft.com/en-us/products/data-factory" target="_blank">
     <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="ADF" />
   </a>
-  <a href="https://azure.microsoft.com/en-us/products/synapse-analytics" target="_blank">
-    <img src="https://img.shields.io/badge/Azure_Synapse-005288?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Synapse" />
-  </a>
   <a href="https://www.microsoft.com/en-us/microsoft-fabric" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Fabric" />
   </a>
@@ -144,7 +141,7 @@ I am actively seeking opportunities in Data Engineering or Analytics Engineering
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=TejasML&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasML&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasML&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" alt="Top Languages" width="40%" />
 </p>
 
 <p align="left">

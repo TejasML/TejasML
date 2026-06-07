@@ -137,7 +137,7 @@ I am actively seeking opportunities in Data Engineering or Analytics Engineering
 
 <br>
 
-## GitHub Stats
+<!--## GitHub Stats
 
 <!-- <img src="https://streak-stats.demolab.com/?user=TejasML&theme=tokyonight&hide_border=true" /> -->
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejasML&theme=tokyo-night&hide_border=true" /> -->

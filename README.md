@@ -1,6 +1,6 @@
 # Hi, I'm Tejas 👋
 
-![Banner](banner.svg)
+![Banner](banner.png)
 <br>
 
 ## About Me

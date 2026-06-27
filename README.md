@@ -34,12 +34,6 @@ I am actively seeking opportunities in Data Engineering or Analytics Engineering
 
 <br>
 
-## Certifications
-
-> Currently preparing for **DP-600 — Microsoft Certified: Fabric Analytics Engineer Associate**
-
-<br>
-
 
 
 <!--## GitHub Stats

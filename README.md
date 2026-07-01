@@ -7,7 +7,7 @@
 
 I am a Data Science graduate with strong interests in **Data Engineering** and **Analytics Engineering**. I have built end-to-end data pipelines — ingesting data from Kaggle datasets, public APIs, and relational databases, transforming it using **Apache Spark** and **PySpark**, and implementing **Medallion Architecture** (Bronze, Silver, Gold layers) to deliver clean, analytics-ready outputs across modern cloud platforms.
 
-I also actively develop and deploy **Machine Learning** and **Deep Learning** projects — including a live pneumonia detection application built using CNNs and deployed on Hugging Face Spaces.
+My work also extends into Machine Learning and Deep Learning, including a CNN-powered pneumonia detection app deployed on Hugging Face Spaces
 
 I hold the **Microsoft Certified: Azure Data Fundamentals (DP-900)** certification and am currently preparing for **DP-600 — Fabric Analytics Engineer Associate**.
 
@@ -36,11 +36,11 @@ I am actively seeking opportunities in Data Engineering or Analytics Engineering
 
 
 
-<!--## GitHub Stats
+--## GitHub Stats
 
-<!-- <img src="https://streak-stats.demolab.com/?user=TejasML&theme=tokyonight&hide_border=true" /> -->
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejasML&theme=tokyo-night&hide_border=true" /> -->
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=150&section=header&text=Hi%20I'm%20Tejas&fontSize=50&fontColor=ffffff&animation=fadeIn" /> -->
+-- <img src="https://streak-stats.demolab.com/?user=TejasML&theme=tokyonight&hide_border=true" /> -->
+-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejasML&theme=tokyo-night&hide_border=true" /> -->
+-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=150&section=header&text=Hi%20I'm%20Tejas&fontSize=50&fontColor=ffffff&animation=fadeIn" /> -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=TejasML&label=Profile%20Views&color=0078D4&style=flat" alt="Profile Views" />
 </p>

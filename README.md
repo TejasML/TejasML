@@ -1,7 +1,6 @@
 # Hi, I'm Tejas 👋
 
 ![Banner](banner_1584x396.png)
-<br>
 
 ## About Me
 
@@ -12,8 +11,6 @@ My work also extends into Machine Learning and Deep Learning, including a CNN-po
 I hold the **Microsoft Certified: Azure Data Fundamentals (DP-900)** certification and am currently preparing for **DP-600 — Fabric Analytics Engineer Associate**.
 
 I am actively seeking opportunities in Data Engineering or Analytics Engineering. If you are working on impactful data or AI projects, feel free to connect.
-
-<br>
 
 ## Connect with Me
 
@@ -30,17 +27,4 @@ I am actively seeking opportunities in Data Engineering or Analytics Engineering
   <a href="https://github.com/TejasML" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
-<br>
-
-
-
---## GitHub Stats
-
--- <img src="https://streak-stats.demolab.com/?user=TejasML&theme=tokyonight&hide_border=true" /> -->
--- <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejasML&theme=tokyo-night&hide_border=true" /> -->
--- <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=150&section=header&text=Hi%20I'm%20Tejas&fontSize=50&fontColor=ffffff&animation=fadeIn" /> -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=TejasML&label=Profile%20Views&color=0078D4&style=flat" alt="Profile Views" />
 </p>
